@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me 👋
+### About me :briefcase:
 
 I am Tosin Omotayo, a fullstack developer. I am passionate about all things technology.
 
