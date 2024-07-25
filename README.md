@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi, I am Tosin Omotayo! Skilled Senior Software Engineer, with experience collaborating on projects cutting across
+multiple sectors delivering mission critical products. I am passionate about tackling real world problems and creating solutions
+people us.
 
 <!--
 **oluwaetosin/oluwaetosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
