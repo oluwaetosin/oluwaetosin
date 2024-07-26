@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me :briefcase:
+<hr>
 
 I am Tosin Omotayo, a fullstack developer. I am passionate about all things technology.
 
