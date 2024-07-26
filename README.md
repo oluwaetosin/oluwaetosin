@@ -20,3 +20,4 @@
 - **LinkedIn**: [Oluwatosin Omotayo](https://www.linkedin.com/in/omotayo-tosin-84463991/)
 - **GitHub**: [oluwaetosin](https://github.com/oluwaetosin)
 - **Medium**: [oluwaetosin](https://medium.com/@oluwaetosin)
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
